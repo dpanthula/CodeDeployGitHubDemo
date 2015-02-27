@@ -1,0 +1,5 @@
+# Travis file for Sample App in Java
+language: java
+# Java version 1.7
+jdk:
+  - openjdk7
